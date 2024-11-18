@@ -1,5 +1,5 @@
-#ifndef SOL1
-#define SOL1
+#ifndef SOL1_H
+#define SOL1_H
 
 #include <iostream>
 #include <vector>
